@@ -2,7 +2,7 @@
 - 👀 I love reading books and love writing 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to develop new skills 
-- 📫 you can reach me throught instagram: @auckelkomal and @komalwritess
+- 📫 you can reach me throught instagram: @auckelkomal
 - 
 
 <!---
